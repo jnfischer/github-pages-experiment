@@ -85,6 +85,7 @@ Verb prefixing is also prominent in German; it should be reasonably straightforw
 English also has many prefixed verbs of Germanic origin, and these could be organized in table form as has been done here. However, English also has an extensive collection of [_phrasal verbs_](https://en.wikipedia.org/wiki/Phrasal_verb), in which a verb and an accompanying word – generally a preposition or adverb – together carry a unique shade of meaning (e.g. **run up**, **pull off**). A table of English phrasal verbs illustrating which accompanying words (**up**, **off**, etc.) are most 'popular' would be fascinating to examine.
 
 The Latin prefixes, German prefixes, and English phrasal verb accompanying words all tend to have similar functions, and in many cases they are even theorized to have common origins. A comparison of these morphemes across languages is another intriguing area for future study.
-___
+
+---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
