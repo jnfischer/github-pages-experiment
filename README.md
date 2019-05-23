@@ -1,6 +1,6 @@
 # GitHub Pages experiment: Latin Prefixed Verbs
 
-This is my first time working with GitHub Pages - experimenting to see how its rendering looks (for desktop and mobile) using a static single-page website, an article on Latin prefixed verbs.
+This is my first time working with GitHub Pages - experimenting to see how its rendering looks (for desktop and mobile) using a static single-page website, an article I wrote about Latin prefixed verbs.
 
 The article is written in Markdown. At first I produced the corresponding HTML locally using Atom's Markdown Preview Plus extension. Resulting site is published [here](https://jnfischer.github.io/github-pages-experiment/prefixedverbs.md.html). The local rendering respects the use of HTML `<small>` tagging to decrease the font size of the text in the entire table.
 
