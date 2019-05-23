@@ -1,4 +1,4 @@
-# GitHub Pages experimental repository (Latin Prefixed Verbs)
+# GitHub Pages experiment: Latin Prefixed Verbs
 
 This is my first time working with GitHub Pages - experimenting to see how its rendering looks (for desktop and mobile) using a static single-page website, an article on Latin prefixed verbs.
 
